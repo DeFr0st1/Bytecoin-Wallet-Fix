@@ -30,12 +30,19 @@ Voila, problem solved.  It still takes awhile to sync (1 hour), but this was the
 Please pass this on since this seems to be a common problem that the developers aren't addressing in forums.
 
 TZC: Ttk84BWjYGmpKDAAmcPRcmJjhxY6RJq8eG
+
 VIVO:VGQFRwi7s6c6S5ihzJzc8EQMX35tKUuEEX
+
 BCN: 21ya3g3yEpMAButNVy89RT6Q2dufbYwK4P1XwXXepani6GT2fKVcnEbLcTnrv5ZuDqj1STegSiCkyjemtHJPH2jh5dRaC1s 
+
 BTC: 1LuWhENdBEMhsEosCwbtvUpEJJpAWQ3dZX
+
 ZEC: t1fcyS75C94zSJ2LmLsNPKe2R6pASaDkevi
+
 LTC: LU3X572D3Zu3adespXBq4CAH3CbDpT89V5
+
 ETH: 0xc03cfd2c036ba8d462b7ecf0529ed8090172d6cc
+
 ETC: 0x35291c336cd22a6876830b4c7769a2815430b02b
 
 
